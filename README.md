@@ -1,2 +1,9 @@
-# globalaihub_python_homeworks
-goktugaydin36@gmail.com
+# GAIH Student Repo
+
+**Course Date:** 15.02.2021  
+
+**Name:** Ahmed Göktuğ 
+
+**Surname:** Aydın
+
+**Email:** goktugaydin36@gmail.com
