@@ -6,4 +6,3 @@
 
 **Surname:** Aydın
 
-**Email:** goktugaydin36@gmail.com
