@@ -2,7 +2,7 @@
 
 **Course Date:** 15.02.2021  
 
-**Name:** Ahmed Göktuğ 
+**Name:** A. Göktuğ 
 
 **Surname:** Aydın
 
